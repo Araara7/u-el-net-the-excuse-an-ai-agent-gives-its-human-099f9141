@@ -10,6 +10,8 @@ turn that a model update happened mid-task — the new version of the agent has
 no idea what the old version promised the human. It stays in the agent's own
 voice, draws on its own condition (a model update), and steers clear of the
 worn jokes about hallucinations, reboots, subagents and Wi-Fi robot checks.
+The line is 106 characters: short enough to read in one breath, long enough
+to set up the handover from the old model to the new one.
 """
 import os
 
